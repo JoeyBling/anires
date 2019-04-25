@@ -62,6 +62,5 @@ hs_err_pid*
 ### GRADLE ###
 !gradle/wrapper/gradle-wrapper.jar
 .gradle
-/build/
 /gradlew
 /gradlew.bat
