@@ -1,8 +1,21 @@
 {
-  "name": "animation-resume",
+  "name": "anires",
   "version": "1.0.0",
-  "description": "animation resume",
-  "author": " <>",
+  "description": "試毅-思伟_一个会动的简历",
+  "author": "zhousiwei <2434387555@qq.com>",
+  "license": "Apache License",
+  "homepage": ".",
+  "keywords": [
+    "Java",
+    "Java软件工程师",
+    "resume",
+    "后端",
+    "后端工程师",
+    "简历",
+    "后端简历",
+    "后端工程师简历",
+    "java后端简历"
+  ],
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
